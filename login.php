@@ -306,7 +306,7 @@ $(document).ready(function(){
 						<div class="row">
 							<div class="col-lg-12">
 
-								<form id="change-password-form"action="" method="post" role="form" style="display:block;">
+								<form id="change-password-form" method="post" role="form" style="display:block;">
 										<div class="form-group">
 											<div id="checuser" ></div>
 											<input type="hidden" name="user_mail" value="<?= $mail ?>"  >
